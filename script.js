@@ -14,7 +14,7 @@ let songs = [
     {songName: "Raatan Lambiyaan Lofi (Slowed and Reverb) ", filePath: "songs/2.mp3", coverPath: "covers/krishna_flute_d.jpg"},
     {songName: "Desh Mere Lofi Version", filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
     {songName: "Iktara Lofi Flip (Slowed and reverb)", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
-    {songName: "Rajha Lofi Version ", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
+    {songName: "Ranjha Lofi Version ", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
     {songName: "Saibo X Jashne bahara X Iktara", filePath: "songs/6.mp3", coverPath: "covers/6.jpg"},
     {songName: "Sakhiyaan - Salam-e-Ishq", filePath: "songs/2.mp3", coverPath: "covers/7.jpg"},
     {songName: "Bhula Dena - Salam-e-Ishq", filePath: "songs/2.mp3", coverPath: "covers/8.jpg"},
