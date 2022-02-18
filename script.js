@@ -105,3 +105,6 @@ document.getElementById('previous').addEventListener('click', ()=>{
     masterPlay.classList.remove('fa-play-circle');
     masterPlay.classList.add('fa-pause-circle');
 })
+let user=[
+    1
+]
