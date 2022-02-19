@@ -17,7 +17,7 @@ let songs = [
     {songName: "Ranjha Lofi Version ", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
     {songName: "Saibo X Jashne bahara X Iktara", filePath: "songs/6.mp3", coverPath: "covers/6.jpg"},
     {songName: "Maula Mere Lofi Reverb", filePath: "songs/7.mp3", coverPath: "covers/7.jpg"},
-    {songName: "Darkhaast Lofi Version", filePath: "songs/8.mp3", coverPath: "covers/8.jpg"}
+    {songName: "Darkhaast-Arjit Singh Lofi Version", filePath: "songs/8.mp3", coverPath: "covers/8.jpg"}
 ]
 
 songItems.forEach((element, i)=>{ 
